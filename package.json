@@ -1,0 +1,25 @@
+{
+  "name": "parcel-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustFS/parcel-starting-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustFS/parcel-starting-file/issues"
+  },
+  "homepage": "https://github.com/JustFS/parcel-starting-file#readme",
+  "devDependencies": {
+    "sass": "^1.32.8",
+    "typescript": "^4.2.3"
+  }
+}
